@@ -24,6 +24,8 @@ Showcasing my coding journey and contributions.
 
 ### 🏆 GitHub Achievements
 <p align="center">
+  <img src="https://github.com/users/Rutuja-kshirsagar1/achievements/quickdraw"/>
+  <img src="https://github.com/users/Rutuja-kshirsagar1/achievements/pull-shark"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Rutuja-kshirsagar1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
@@ -38,27 +40,15 @@ Showcasing my coding journey and contributions.
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Rutuja-kshirsagar1" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section to showcase your latest activities. Example:
-- 🎉 Merged PR #123 in [repository/name](link-to-repo)
-- 🚀 Created new repository [new-project-name](link-to-repo)
-- 📝 Commented on issue #456 in [repository/name](link-to-repo)
--->
-<!--END_SECTION:activity-->
 
 
-## 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect 
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn profile URL -->
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email address -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio website URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rutuja-kshirsagar-portfolio.vercel.app/) 
 
 
 
