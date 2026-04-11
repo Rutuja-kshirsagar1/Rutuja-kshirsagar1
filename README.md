@@ -15,17 +15,13 @@ I am a passionate B.Tech IT student driven by curiosity for data science, machin
 
 ## 📊 GitHub Analytics Dashboard
 
-Showcasing my coding journey and contributions.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rutuja-kshirsagar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutuja-kshirsagar1&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github.com/users/Rutuja-kshirsagar1/achievements/quickdraw"/>
-  <img src="https://github.com/users/Rutuja-kshirsagar1/achievements/pull-shark"/>
+  <!-- Custom badges instead of broken achievement links -->
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-blue"/>
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-green"/>
+  
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=Rutuja-kshirsagar1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
