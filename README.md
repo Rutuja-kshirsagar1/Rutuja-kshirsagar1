@@ -18,7 +18,6 @@ I am a passionate B.Tech IT student driven by curiosity for data science, machin
 ---
 [![](https://visitcount.itsvg.in/api?id=Rutuja-kshirsagar1&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutuja-kshirsagar1&show_icons=true&locale=en" alt="rutuja-kshirsagar1" /></p>
 
 
 
