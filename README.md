@@ -16,13 +16,10 @@ I am a passionate B.Tech IT student driven by curiosity for data science, machin
 ## 📊 GitHub Analytics Dashboard
 
 ### 🏆 GitHub Achievements
-<p align="center">
-  <!-- Custom badges instead of broken achievement links -->
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-blue"/>
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-green"/>
-  
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Rutuja-kshirsagar1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+<p ![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-blue)
+   ![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-green)
+  <img src="icons/quickdraw.png" width="80"/>
+<img src="icons/pullshark.png" width="80"/>
 </p>
 
 ### 📈 Contribution Activity
